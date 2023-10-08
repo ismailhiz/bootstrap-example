@@ -1,0 +1,148 @@
+body  {
+    padding-top: 40px;
+}
+
+
+.resimSlader{
+   height: 600px;
+}
+.navbar_fix {
+    padding: 10px;
+ }
+
+ .word{ 
+    position: relative;
+    top: 9px;
+ }
+
+ .iletisim_buton:active {
+    background-color: red;
+ }
+
+.cubuk  {
+    width: 50%;
+    position: relative;
+    left: 25.9%;
+   
+}
+
+.text_Stil {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1em;
+}
+
+.title {
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Skranji', cursive;
+    letter-spacing: 2px;
+}
+.cubuk_Sol{
+    width: 11%;
+    position: relative;
+    left: 34%;
+    top: 42px;
+    background-color: rgb(30 ,48, 80);
+}
+
+.cubuk_Sag{
+    width: 11%;
+    position: relative;
+    left: 55%;
+    bottom: 42px;
+    background-color: rgb(30 ,48, 80);
+}
+
+
+.cubuk_Sag2 {
+    width: 11%;
+    position: relative;
+    left: 55%;
+    bottom: -110px;
+    background-color: rgb(30 ,48, 80);
+}
+
+.cubuk_Sol2 {
+    width: 11%;
+    position: relative;
+    left: 34%;
+    top: 127px;
+    background-color: rgb(30 ,48, 80);
+   
+}
+
+.title2 {
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Skranji', cursive;
+    letter-spacing: 2px;
+    position: absolute;
+    left: 43.5%;
+}
+
+
+.yaprak{
+    position: absolute;
+    left: 48.5%;
+    bottom:-640px;
+    
+}
+
+.birinci_Card{
+    position: relative;
+    top: 200px;
+    text-align: center;
+}
+
+.ikinci_Card{
+    position: relative;
+    top: 300px;
+    text-align: center;
+}
+
+.galeri{
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Skranji', cursive;
+    letter-spacing: 2px;
+    position: absolute;
+    left: 45.6%;
+    top: 3000px;
+}
+
+.galeri_Sol{
+    width: 11%;
+    position: relative;
+    left: 35%;
+    top: 464px;
+    background-color: rgb(30 ,48, 80);
+}
+
+.galeri_Sag{
+    width: 11%;
+    position: relative;
+    left: 54%;
+    bottom: -444px;
+    background-color: rgb(30 ,48, 80);
+}
+
+.yaprak_Galeri{
+    position: absolute;
+    top: 3100px;
+    left: 48.6%;
+}
+
+.görsel{
+    padding-top: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: auto;
+}
+.görsel2{
+    padding-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.görsel3{
+    padding-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
